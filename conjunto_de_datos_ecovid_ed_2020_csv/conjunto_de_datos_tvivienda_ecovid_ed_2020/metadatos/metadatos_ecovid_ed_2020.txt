@@ -1,0 +1,28 @@
+﻿Identifier: MEX-INEGI.IAI1.01-ECOVID-ED-2020
+
+Title: Encuesta para la Medición del Impacto COVID-19 en la Educación (ECOVID-ED) 2020. Datos oportunos
+
+Description: El Instituto Nacional de Estadística y Geografía (INEGI) levanta la Encuesta para la Medición del Impacto COVID-19 en la Educación (ECOVID-ED) 2020, con el objetivo de conocer el impacto de la cancelación de clases presenciales en las instituciones educativas del país para evitar los contagios por la pandemia del COVID-19, en la experiencia educativa de niños, niñas, adolescentes y jóvenes de 3 a 29 años en  México, tanto en el pasado ciclo escolar 2019-2020, como en el actual ciclo 2020-2021. 
+
+Modified: 2021-03-23
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: atencion.usuarios@inegi.org.mx
+
+License: https://www.inegi.org.mx/inegi/terminos.html
+
+DataDictionary: 
+
+Keyword: "clases", "encuesta", "escolaridad", "gastos", "hogar", "horas", "inscripción", "internet", "población", "tecnología", "vivienda" 
+
+ContactPoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 4634
+
+Temporal: 2020-12-01-2020-12-18
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: No determinada
+
+Distribution: https://www.inegi.org.mx/investigacion/ecovided/2020/
+
